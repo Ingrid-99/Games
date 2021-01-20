@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ \u6251\u514B\u724C\u7C7B\uFF0C\u53EF\u4EE5\u88AB\u7FFB\u5F00\r\n
+comment1.params=cardValue
+comment1.target=Card(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int\ getValue()
+comment4.params=
+comment4.target=boolean\ getFaceup()
+comment5.params=
+comment5.target=void\ turnFaceDown()
+numComments=6
